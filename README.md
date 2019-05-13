@@ -1,1 +1,1 @@
-# CompilerProgramming_MiniC_20181120
+# CompilerProgramming_MiniC_Syntax analyzer_20181120
